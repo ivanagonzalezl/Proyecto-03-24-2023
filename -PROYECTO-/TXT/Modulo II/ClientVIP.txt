@@ -1,0 +1,3 @@
+Nicola,6,19,Saudi Arabian Grand Prix,False,5,True,0,
+Ivana,1234567,18,Saudi Arabian Grand Prix,False,6,False,0,
+Jose,12312,2121,Azerbaijan Grand Prix,False,10,False,0,
